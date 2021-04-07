@@ -1,0 +1,19 @@
+.h1 {
+    text-transform: capitalize;
+}
+
+.main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.employeeOfMonth{
+    text-align: center;
+}
+
+.employeeOfMonth img {
+    width: 250px;
+    border-radius: 50%;
+}
